@@ -1,42 +1,208 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="GB TV BAHIA SUBAE" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png" group-title=" ⏺️ GLOBO (NORDESTE)",GB TV BAHIA SUBAE
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1487574.ts
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ" tvg-logo="https://easypr1.com/logos/sbt.png" group-title="⏺️ BAND - SBT",SBT RJ
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/469479.ts
-#EXTINF:-1 tvg-id="band.bahia.br" tvg-name="BAND TV BAHIA" tvg-logo="https://easypr1.com/logos/band.png" group-title="⏺️ BAND - SBT",BAND TV BAHIA
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/644858.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/redetv.png" group-title="⏺️ ABERTO",REDE TV FHD
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/111212.ts
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://www.fontedecanais.io/logos/canais/hbo.png" group-title="⏺️ HBO",HBO HD
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6108.ts
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDg1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png" group-title="⛄ INFANTIS",NICKELODEON FHD
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1021961.ts
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD²" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDg1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png" group-title="⛄ INFANTIS",NICKELODEON FHD²
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1504066.ts
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDg1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png" group-title="⛄ INFANTIS",NICKELODEON HD
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1021960.ts
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK 4K" tvg-logo="https://www.fontedecanais.io/logos/canais/cartoonnetwork.png" group-title="⏺️ 4K UHD | QHD",CARTOON NETWORK 4K
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97234.ts
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/cartoonnetwork.png" group-title="⛄ INFANTIS",CARTOON NETWORK FHD
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1021726.ts
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://www.fontedecanais.io/logos/canais/cartoonnetwork.png" group-title="⛄ INFANTIS",CARTOON NETWORK HD
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1021727.ts
 #EXTINF:-1 tvg-id="Adultswim.br" tvg-name="ADULT SWIM FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/adultswim.png" group-title="⛄ INFANTIS",ADULT SWIM FHD
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1021971.ts
 #EXTINF:-1 tvg-id="Adultswim.br" tvg-name="ADULT SWIM HD" tvg-logo="https://www.fontedecanais.io/logos/canais/adultswim.png" group-title="⛄ INFANTIS",ADULT SWIM HD
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1021970.ts
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO 4K" tvg-logo="https://www.fontedecanais.io/logos/canais/discoveryturbo.png" group-title="⏺️ 4K UHD | QHD",DISCOVERY TURBO 4K
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/110989.ts
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/animalplanet.png" group-title="⛰️ DOCUMENTARIO",ANIMAL PLANET FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/129380.ts
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://www.fontedecanais.io/logos/canais/animalplanet.png" group-title="⛰️ DOCUMENTARIO",ANIMAL PLANET HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/129378.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://easypr1.com/Logos/axn1.png" group-title="⏺️ FILMES E SERIES",AXN FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97225.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://easypr1.com/Logos/axn1.png" group-title="⏺️ FILMES E SERIES",AXN HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/60937.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV FHD" tvg-logo="https://easypr1.com/logos/band.png" group-title="⏺️ BAND - SBT",BAND TV FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1485133.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV HD" tvg-logo="https://easypr1.com/logos/band.png" group-title="⏺️ BAND - SBT",BAND TV HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/469455.ts
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD" tvg-logo="https://easypr1.com/Logos/bandnews.png" group-title="⏺️ NOTICIA",BAND NEWS FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/608067.ts
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="https://easypr1.com/Logos/bandnews.png" group-title="⏺️ NOTICIA",BAND NEWS HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/608065.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://easypr1.com/logos/bandsports.png" group-title="⚽ESPORTE",BAND SPORTS FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/608060.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://easypr1.com/logos/bandsports.png" group-title="⚽ESPORTE",BAND SPORTS HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/608058.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://www.clarotvmais.com.br/img/channels/brasil.png" group-title="⏺️ ABERTO",CANAL BRASIL FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/75477.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://www.clarotvmais.com.br/img/channels/brasil.png" group-title="⏺️ ABERTO",CANAL BRASIL HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/61412.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/off.png" group-title="⛰️ VARIEDADES",OFF FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/604848.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="https://www.fontedecanais.io/logos/canais/off.png" group-title="⛰️ VARIEDADES",OFF HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/604846.ts
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/cartoonnetwork.png" group-title="⛄ INFANTIS",CARTOON NETWORK FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1021726.ts
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://www.fontedecanais.io/logos/canais/cartoonnetwork.png" group-title="⛄ INFANTIS",CARTOON NETWORK HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1021727.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/cinemax.png" group-title="⏺️ FILMES E SERIES",CINEMAX FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/10993.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://www.fontedecanais.io/logos/canais/cinemax.png" group-title="⏺️ FILMES E SERIES",CINEMAX HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/7802.ts
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://easypr1.com/Logos/cnn.png" group-title="⏺️ NOTICIA",CNN BRASIL FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/44724.ts
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://easypr1.com/Logos/cnn.png" group-title="⏺️ NOTICIA",CNN BRASIL HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/44723.ts
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://imagensempng.com.br/wp-content/uploads/2023/05/327-3.png" group-title="⛰️ VARIEDADES",COMEDY CENTRAL FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/61244.ts
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://imagensempng.com.br/wp-content/uploads/2023/05/327-3.png" group-title="⛰️ VARIEDADES",COMEDY CENTRAL HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/10292.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoverychannel.png" group-title="⏺️ DISCOVERY",DISCOVERY CHANNEL FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97172.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoverychannel.png" group-title="⏺️ DISCOVERY",DISCOVERY CHANNEL HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97173.ts
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoveryhh.png" group-title="⏺️ DISCOVERY",DISCOVERY H&H FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97175.ts
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoveryhh.png" group-title="⏺️ DISCOVERY",DISCOVERY H&H HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97176.ts
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoverykids.png" group-title="⛄ INFANTIS",DISCOVERY KIDS FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1021733.ts
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoverykids.png" group-title="⛄ INFANTIS",DISCOVERY KIDS HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1021732.ts
+#EXTINF:-1 tvg-id="discovery.sciene.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoveryscience.png" group-title="⏺️ DISCOVERY",DISCOVERY SCIENCE FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/61232.ts
+#EXTINF:-1 tvg-id="discovery.sciene.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoveryscience.png" group-title="⏺️ DISCOVERY",DISCOVERY SCIENCE HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/7861.ts
 #EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoveryturbo.png" group-title="⏺️ DISCOVERY",DISCOVERY TURBO FHD
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97190.ts
 #EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoveryturbo.png" group-title="⏺️ DISCOVERY",DISCOVERY TURBO HD
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97191.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoverychannel.png" group-title="⏺️ DISCOVERY",DISCOVERY CHANNEL FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97172.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoverychannel.png" group-title="⏺️ DISCOVERY",DISCOVERY CHANNEL HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97173.ts
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/e.png" group-title="⛰️ VARIEDADES",E! FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/61161.ts
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="https://www.fontedecanais.io/logos/canais/e.png" group-title="⛰️ VARIEDADES",E! HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/10285.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://easypr1.com/logos/espn.png" group-title="⚽ESPORTE",ESPN FHD¹
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1160284.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://easypr1.com/logos/espn.png" group-title="⚽ESPORTE",ESPN HD²
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1487619.ts
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://easypr1.com/logos/espn2.png" group-title="⚽ESPORTE",ESPN 2 FHD²
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1487678.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD" tvg-logo="https://easypr1.com/logos/espn2.png" group-title="⚽ESPORTE",ESPN 2 FHD¹
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/654306.ts
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/espn4.png" group-title="⚽ESPORTE",ESPN 4 FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905220.ts
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD" tvg-logo="https://www.fontedecanais.io/logos/canais/espn4.png" group-title="⚽ESPORTE",ESPN 4 HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905221.ts
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/espn4.png" group-title="⚽ESPORTE",ESPN 4 FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905220.ts
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD" tvg-logo="https://www.fontedecanais.io/logos/canais/espn4.png" group-title="⚽ESPORTE",ESPN 4 HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905221.ts
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO BAHIA UHD" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png" group-title="⏺️ 4K UHD | QHD",GLOBO BAHIA UHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/630324.ts
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://easypr1.com/Logos/globonews.png" group-title="⏺️ NOTICIA",GLOBO NEWS FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/608143.ts
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://easypr1.com/Logos/globonews.png" group-title="⏺️ NOTICIA",GLOBO NEWS HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/608141.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/gnt.png" group-title="⛰️ VARIEDADES",GNT FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/604947.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://www.fontedecanais.io/logos/canais/gnt.png" group-title="⛰️ VARIEDADES",GNT HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/604946.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/hbo.png" group-title="⏺️ HBO",HBO FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/11566.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://www.fontedecanais.io/logos/canais/hbo.png" group-title="⏺️ HBO",HBO HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6108.ts
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO + PLUS FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/hboplus.png" group-title="⏺️ HBO",HBO + PLUS FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/13190.ts
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO + PLUS HD" tvg-logo="https://www.fontedecanais.io/logos/canais/hboplus.png" group-title="⏺️ HBO",HBO + PLUS HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6106.ts
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/hbo2.png" group-title="⏺️ HBO",HBO 2 FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/11567.ts
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="https://www.fontedecanais.io/logos/canais/hbo2.png" group-title="⏺️ HBO",HBO 2 HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6110.ts
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/hbofamily.png" group-title="⏺️ HBO",HBO FAMILY FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/63299.ts
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://www.fontedecanais.io/logos/canais/hbofamily.png" group-title="⏺️ HBO",HBO FAMILY HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6109.ts
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/hbosignature.png" group-title="⏺️ HBO",HBO SIGNATURE FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/63300.ts
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.fontedecanais.io/logos/canais/hbosignature.png" group-title="⏺️ HBO",HBO SIGNATURE HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6105.ts
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/history.png" group-title="⛰️ DOCUMENTARIO",HISTORY FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97243.ts
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY HD" tvg-logo="https://www.fontedecanais.io/logos/canais/history.png" group-title="⛰️ DOCUMENTARIO",HISTORY HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97247.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/lifetime.png" group-title="⛰️ VARIEDADES",LIFETIME FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/69157.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://www.fontedecanais.io/logos/canais/lifetime.png" group-title="⛰️ VARIEDADES",LIFETIME HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/7525.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/megapix.png" group-title="⏺️ FILMES E SERIES",MEGAPIX FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97003.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://www.fontedecanais.io/logos/canais/megapix.png" group-title="⏺️ FILMES E SERIES",MEGAPIX HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6101.ts
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDg1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png" group-title="⛄ INFANTIS",NICKELODEON FHD²
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1504066.ts
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDg1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png" group-title="⛄ INFANTIS",NICKELODEON HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1021960.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://easypr1.com/logos/paramount.png" group-title="⏺️ FILMES E SERIES",PARAMOUNT CHANNEL FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/13185.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://easypr1.com/logos/paramount.png" group-title="⏺️ FILMES E SERIES",PARAMOUNT CHANNEL HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6945.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV" tvg-logo="https://cdn.mitvstatic.com/channels/br_recordtv-s-o-paulo-hd_m.png" group-title="⏺️ RECORD TV",RECORD TV
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/129824.ts
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP" tvg-logo="https://easypr1.com/logos/sbt.png" group-title="⏺️ BAND - SBT",SBT SP
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/605500.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="https://easypr1.com/logos/space.png" group-title="⏺️ FILMES E SERIES",SPACE FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/33767.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://easypr1.com/logos/space.png" group-title="⏺️ FILMES E SERIES",SPACE HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6085.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TC ACTION FHD" tvg-logo="https://easypr1.com/Logos/telecineaction.png" group-title="⏺️ TELECINE",TC ACTION FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/8141.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TC ACTION HD" tvg-logo="https://easypr1.com/Logos/telecineaction.png" group-title="⏺️ TELECINE",TC ACTION HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6080.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TC CULT FHD" tvg-logo="https://easypr1.com/Logos/telecinecult.png" group-title="⏺️ TELECINE",TC CULT FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97305.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TC CULT HD" tvg-logo="https://easypr1.com/Logos/telecinecult.png" group-title="⏺️ TELECINE",TC CULT HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/10247.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TC FUN FHD" tvg-logo="https://easypr1.com/Logos/telecinefun.png" group-title="⏺️ TELECINE",TC FUN FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/63294.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TC FUN HD" tvg-logo="https://easypr1.com/Logos/telecinefun.png" group-title="⏺️ TELECINE",TC FUN HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6079.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TC PIPOCA FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/telecinepipoca.png" group-title="⏺️ TELECINE",TC PIPOCA FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/100570.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TC PIPOCA HD" tvg-logo="https://www.fontedecanais.io/logos/canais/telecinepipoca.png" group-title="⏺️ TELECINE",TC PIPOCA HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/100569.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TC PREMIUM FHD" tvg-logo="https://easypr1.com/Logos/telecinepremium.png" group-title="⏺️ TELECINE",TC PREMIUM FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/63290.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TC PREMIUM HD" tvg-logo="https://easypr1.com/Logos/telecinepremium.png" group-title="⏺️ TELECINE",TC PREMIUM HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6077.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TC TOUCH FHD" tvg-logo="https://easypr1.com/Logos/telecinetouch.png" group-title="⏺️ TELECINE",TC TOUCH FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/100579.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TC TOUCH HD" tvg-logo="https://easypr1.com/Logos/telecinetouch.png" group-title="⏺️ TELECINE",TC TOUCH HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/100576.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/tlc.png" group-title="⛰️ DOCUMENTARIO",TLC FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/69149.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://www.fontedecanais.io/logos/canais/tlc.png" group-title="⛰️ DOCUMENTARIO",TLC HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/608202.ts
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="https://easypr1.com/logos/tntseries.png" group-title="⏺️ FILMES E SERIES",TNT SERIES FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/61226.ts
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="https://easypr1.com/logos/tntseries.png" group-title="⏺️ FILMES E SERIES",TNT SERIES HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6073.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast FHD" tvg-logo="http://97j91.xyz/images/logos/1d73e68337942405f1095780c2a21e27.png" group-title="⛄ INFANTIS",Tooncast FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2904747.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="http://97j91.xyz/images/logos/1d73e68337942405f1095780c2a21e27.png" group-title="⛄ INFANTIS",Tooncast HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2904748.ts
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://easypr1.com/Logos/studiouniversal.png" group-title="⏺️ FILMES E SERIES",STUDIO UNIVERSAL FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/61217.ts
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://easypr1.com/Logos/studiouniversal.png" group-title="⏺️ FILMES E SERIES",STUDIO UNIVERSAL HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97155.ts
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="⏺️ FILMES E SERIES",WARNER CHANNEL FHD
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/61228.ts
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="⏺️ FILMES E SERIES",WARNER CHANNEL HD
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6072.ts
-#EXTINF:-1 tvg-id="band.rj.br" tvg-name="BAND RIO DE JANEIRO" tvg-logo="https://easypr1.com/logos/band.png" group-title="⏺️ BAND - SBT",BAND RIO DE JANEIRO
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/605354.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD" tvg-logo="https://easypr1.com/logos/Canalsony.png" group-title="⏺️ FILMES E SERIES",SONY FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/13202.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="https://easypr1.com/logos/Canalsony.png" group-title="⏺️ FILMES E SERIES",SONY HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6961.ts
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://easypr1.com/Logos/studiouniversal.png" group-title="⏺️ FILMES E SERIES",STUDIO UNIVERSAL FHD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/61217.ts
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://easypr1.com/Logos/studiouniversal.png" group-title="⏺️ FILMES E SERIES",STUDIO UNIVERSAL HD
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97155.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA" tvg-logo="https://www.fontedecanais.io/logos/canais/cultura.png" group-title="⏺️ ABERTO",TV CULTURA
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/69134.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BR: 24h Ben 10" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Ben 10
