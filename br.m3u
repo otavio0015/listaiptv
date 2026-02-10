@@ -22,8 +22,6 @@ http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1021727.ts
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/7802.ts
 #EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://easypr1.com/Logos/cnn.png" group-title="⏺️ NOTICIA",CNN BRASIL HD
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/44723.ts
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://imagensempng.com.br/wp-content/uploads/2023/05/327-3.png" group-title="⛰️ VARIEDADES",COMEDY CENTRAL HD
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/10292.ts
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoverychannel.png" group-title="⏺️ DISCOVERY",DISCOVERY CHANNEL HD
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97173.ts
 #EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://www.fontedecanais.io/logos/canais/discoveryhh.png" group-title="⏺️ DISCOVERY",DISCOVERY H&H HD
@@ -36,10 +34,6 @@ http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/7861.ts
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97191.ts
 #EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="https://www.fontedecanais.io/logos/canais/e.png" group-title="⛰️ VARIEDADES",E! HD
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/10285.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://easypr1.com/logos/espn.png" group-title="⚽ESPORTE",ESPN HD²
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1487619.ts
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD" tvg-logo="https://www.fontedecanais.io/logos/canais/espn4.png" group-title="⚽ESPORTE",ESPN 4 HD
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905221.ts
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD" tvg-logo="https://www.fontedecanais.io/logos/canais/espn4.png" group-title="⚽ESPORTE",ESPN 4 HD
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905221.ts
 #EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO BAHIA UHD" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png" group-title="⏺️ 4K UHD | QHD",GLOBO BAHIA UHD
@@ -66,8 +60,6 @@ http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/7525.ts
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6101.ts
 #EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDg1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png" group-title="⛄ INFANTIS",NICKELODEON HD
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/1021960.ts
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://easypr1.com/logos/paramount.png" group-title="⏺️ FILMES E SERIES",PARAMOUNT CHANNEL HD
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6945.ts
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV" tvg-logo="https://cdn.mitvstatic.com/channels/br_recordtv-s-o-paulo-hd_m.png" group-title="⏺️ RECORD TV",RECORD TV
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/129824.ts
 #EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP" tvg-logo="https://easypr1.com/logos/sbt.png" group-title="⏺️ BAND - SBT",SBT SP
@@ -98,78 +90,75 @@ http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97155.ts
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6072.ts
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="https://easypr1.com/logos/Canalsony.png" group-title="⏺️ FILMES E SERIES",SONY HD
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/6961.ts
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://easypr1.com/Logos/studiouniversal.png" group-title="⏺️ FILMES E SERIES",STUDIO UNIVERSAL HD
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/97155.ts
 #EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA" tvg-logo="https://www.fontedecanais.io/logos/canais/cultura.png" group-title="⏺️ ABERTO",TV CULTURA
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/69134.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24H Dragon Ball Z" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/dUaSis.png" group-title="CANAIS | DESENHOS 24H",24H Dragon Ball Z
-http://conecdg.me:80/jailson5765/Xyz2307/3920491
-#EXTINF:-1 tvg-id="" tvg-name="24H - DRAGON BALL Z - Saga Saiyajins" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANAIS | ANIMES 24H",24H - DRAGON BALL Z - Saga Saiyajins
-http://conecdg.me:80/jailson5765/Xyz2307/3942895
-#EXTINF:-1 tvg-id="" tvg-name="24H - DRAGON BALL Z - Saga Freeza" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANAIS | ANIMES 24H",24H - DRAGON BALL Z - Saga Freeza
-http://conecdg.me:80/jailson5765/Xyz2307/3942896
-#EXTINF:-1 tvg-id="" tvg-name="24H - DRAGON BALL Z - Saga de Garlic JR" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANAIS | ANIMES 24H",24H - DRAGON BALL Z - Saga de Garlic JR
-http://conecdg.me:80/jailson5765/Xyz2307/3942897
-#EXTINF:-1 tvg-id="" tvg-name="24H - DRAGON BALL Z - Saga dos Androides" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANAIS | ANIMES 24H",24H - DRAGON BALL Z - Saga dos Androides
-http://conecdg.me:80/jailson5765/Xyz2307/3942898
-#EXTINF:-1 tvg-id="" tvg-name="24H - DRAGON BALL Z - Saga do Cell" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANAIS | ANIMES 24H",24H - DRAGON BALL Z - Saga do Cell
-http://conecdg.me:80/jailson5765/Xyz2307/3942899
-#EXTINF:-1 tvg-id="" tvg-name="24H - DRAGON BALL Z - Saga do Majin Boo" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANAIS | ANIMES 24H",24H - DRAGON BALL Z - Saga do Majin Boo
-http://conecdg.me:80/jailson5765/Xyz2307/3942900
-#EXTINF:-1 tvg-id="" tvg-name="24H - DRAGON BALL GT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Dragon_Ball_GT_Original_logo_horizontal.png" group-title="CANAIS | ANIMES 24H",24H - DRAGON BALL GT
-http://conecdg.me:80/jailson5765/Xyz2307/3942901
-#EXTINF:-1 tvg-id="" tvg-name="24H - ONE PUNCH MAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrFNdmmK_d9TNd2grHyR8LsOgd-6h1ZBHdHw&s" group-title="CANAIS | ANIMES 24H",24H - ONE PUNCH MAN
-http://conecdg.me:80/jailson5765/Xyz2307/3942902
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Ben 10" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Ben 10
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905116.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Big Bang Theory" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Big Bang Theory
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905118.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Bob Esponja" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Bob Esponja
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905119.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Brooklyn Nine-Nine" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Brooklyn Nine-Nine
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905123.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Drake & Josh" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Drake & Josh
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905140.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Flash" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H ANIMES",BR: 24h Flash
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905146.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Futurama" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Futurama
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905151.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Hora da Aventura" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Hora da Aventura
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905157.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Jackie Chan e Amigos" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Jackie Chan e Amigos
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905159.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Naruto" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H ANIMES",BR: 24h Naruto
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905171.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h O Incrivel Mundo de Gumball" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h O Incrivel Mundo de Gumball
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905172.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Os Padrinhos Magicos" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Os Padrinhos Magicos
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905179.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Os Simpsons" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H ANIMES",BR: 24h Os Simpsons
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905180.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Pica Pau" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Pica Pau
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905186.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h RICK E MORTY" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h RICK E MORTY
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905191.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Todo Mundo Odeia o Chris" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Todo Mundo Odeia o Chris
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905201.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Um Maluco no Pedaco" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Um Maluco no Pedaco
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905207.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: 24h Uma famiiia da pesada" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ 24H DESENHOS",BR: 24h Uma famiiia da pesada
-http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905208.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Hey Arnold" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/F7Apes.png" group-title="CANAIS | DESENHOS 24H",24H Hey Arnold
-http://conecdg.me:80/jailson5765/Xyz2307/3920509
-#EXTINF:-1 tvg-id="" tvg-name="24H Invasor Zim" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/3aCPlx.png" group-title="CANAIS | DESENHOS 24H",24H Invasor Zim
-http://conecdg.me:80/jailson5765/Xyz2307/3920515
-#EXTINF:-1 tvg-id="" tvg-name="24H Os Jovens Titans" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/VBMZ98.png" group-title="CANAIS | DESENHOS 24H",24H Os Jovens Titans
-http://conecdg.me:80/jailson5765/Xyz2307/3920540
-#EXTINF:-1 tvg-id="" tvg-name="24H Os Pinguins de Madagascar" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/6Xx6Lh.png" group-title="CANAIS | DESENHOS 24H",24H Os Pinguins de Madagascar
-http://conecdg.me:80/jailson5765/Xyz2307/3920542
-#EXTINF:-1 tvg-id="" tvg-name="24H - KICK BUTTOWSKI" tvg-logo="" group-title="CANAIS | DESENHOS 24H",24H - KICK BUTTOWSKI
-http://conecdg.me:80/jailson5765/Xyz2307/3941761
-#EXTINF:-1 tvg-id="" tvg-name="24H - Apenas Um Show - T01" tvg-logo="http://occ-0-8407-2705.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcKSdxG-RRnFw6I4T1JL874MmKZtQySgeCvU8NW51z5KLxI-Yooz_Qh3MSLC_2435e0Hn71xU3dBLvDa1ZWjukOeZYld5panf-gJpn5o8vTo.png?r=d52" group-title="CANAIS | DESENHOS 24H",24H - Apenas Um Show - T01
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Um Show - Temp 1" tvg-logo="http://occ-0-8407-2705.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcKSdxG-RRnFw6I4T1JL874MmKZtQySgeCvU8NW51z5KLxI-Yooz_Qh3MSLC_2435e0Hn71xU3dBLvDa1ZWjukOeZYld5panf-gJpn5o8vTo.png?r=d52" group-title="CANAIS | DESENHOS 24H",Apenas Um Show - T01
 http://conecdg.me:80/jailson5765/Xyz2307/3975130
-#EXTINF:-1 tvg-id="" tvg-name="24H - Apenas Um Show - T02" tvg-logo="http://occ-0-8407-2705.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcKSdxG-RRnFw6I4T1JL874MmKZtQySgeCvU8NW51z5KLxI-Yooz_Qh3MSLC_2435e0Hn71xU3dBLvDa1ZWjukOeZYld5panf-gJpn5o8vTo.png?r=d52" group-title="CANAIS | DESENHOS 24H",24H - Apenas Um Show - T02
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Um Show - Temp 2" tvg-logo="http://occ-0-8407-2705.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcKSdxG-RRnFw6I4T1JL874MmKZtQySgeCvU8NW51z5KLxI-Yooz_Qh3MSLC_2435e0Hn71xU3dBLvDa1ZWjukOeZYld5panf-gJpn5o8vTo.png?r=d52" group-title="CANAIS | DESENHOS 24H",Apenas Um Show - T02
 http://conecdg.me:80/jailson5765/Xyz2307/3975131
-
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",Ben 10
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905116.ts
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang Theory" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",Big Bang Theory
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",Bob Esponja
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905119.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brooklyn Nine-Nine" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",Brooklyn Nine-Nine
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/dUaSis.png" group-title="CANAIS | DESENHOS 24H",Dragon Ball Z
+http://conecdg.me:80/jailson5765/Xyz2307/3920491
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z - Saga Saiyajins" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANAIS | ANIMES 24H",DRAGON BALL Z - Saga Saiyajins
+http://conecdg.me:80/jailson5765/Xyz2307/3942895
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z - Saga Freeza" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANAIS | ANIMES 24H",DRAGON BALL Z - Saga Freeza
+http://conecdg.me:80/jailson5765/Xyz2307/3942896
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z - Saga de Garlic JR" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANAIS | ANIMES 24H",DRAGON BALL Z - Saga de Garlic JR
+http://conecdg.me:80/jailson5765/Xyz2307/3942897
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z - Saga dos Androides" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANAIS | ANIMES 24H",DRAGON BALL Z - Saga dos Androides
+http://conecdg.me:80/jailson5765/Xyz2307/3942898
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z - Saga do Cell" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANAIS | ANIMES 24H",DRAGON BALL Z - Saga do Cell
+http://conecdg.me:80/jailson5765/Xyz2307/3942899
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z - Saga do Majin Boo" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANAIS | ANIMES 24H",DRAGON BALL Z - Saga do Majin Boo
+http://conecdg.me:80/jailson5765/Xyz2307/3942900
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL GT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Dragon_Ball_GT_Original_logo_horizontal.png" group-title="CANAIS | ANIMES 24H",DRAGON BALL GT
+http://conecdg.me:80/jailson5765/Xyz2307/3942901
+#EXTINF:-1 tvg-id="" tvg-name="Drake & Josh" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",Drake & Josh
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905140.ts
+#EXTINF:-1 tvg-id="" tvg-name="Flash" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ ANIMES",Flash
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905146.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",Futurama
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/F7Apes.png" group-title="CANAIS | DESENHOS 24H",Hey Arnold
+http://conecdg.me:80/jailson5765/Xyz2307/3920509
+#EXTINF:-1 tvg-id="" tvg-name="Hora da Aventura" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",Hora da Aventura
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905157.ts
+#EXTINF:-1 tvg-id="" tvg-name="Invasor Zim" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/3aCPlx.png" group-title="CANAIS | DESENHOS 24H",Invasor Zim
+http://conecdg.me:80/jailson5765/Xyz2307/3920515
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan e Amigos" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",Jackie Chan e Amigos
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905159.ts
+#EXTINF:-1 tvg-id="" tvg-name="KICK BUTTOWSKI" tvg-logo="" group-title="CANAIS | DESENHOS 24H",KICK BUTTOWSKI
+http://conecdg.me:80/jailson5765/Xyz2307/3941761
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ ANIMES",Naruto
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905171.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Incrivel Mundo de Gumball" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",O Incrivel Mundo de Gumball
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905172.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Magicos" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",Os Padrinhos Magicos
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905179.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ ANIMES",Os Simpsons
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905180.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Jovens Titans" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/VBMZ98.png" group-title="CANAIS | DESENHOS 24H",Os Jovens Titans
+http://conecdg.me:80/jailson5765/Xyz2307/3920540
+#EXTINF:-1 tvg-id="" tvg-name="One Piece" tvg-logo="https://wapp-plus.ipcdn4.com/_0000s_0000s_0000s_0103_24-HORAS_resized.png" group-title="Canais | Brasil 24h",One Piece 24H
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/23232746/10057521/1561288.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ONE PUNCH MAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrFNdmmK_d9TNd2grHyR8LsOgd-6h1ZBHdHw&s" group-title="CANAIS | ANIMES 24H",ONE PUNCH MAN
+http://conecdg.me:80/jailson5765/Xyz2307/3942902
+#EXTINF:-1 tvg-id="" tvg-name="Pica Pau" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",Pica Pau
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905186.ts
+#EXTINF:-1 tvg-id="" tvg-name="RICK E MORTY" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",RICK E MORTY
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905191.ts
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",Todo Mundo Odeia o Chris
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905201.ts
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaco" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",Um Maluco no Pedaco
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905207.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uma famiiia da pesada" tvg-logo="http://97j91.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="⏲️ DESENHOS",Uma famiiia da pesada
+http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/2905208.ts
