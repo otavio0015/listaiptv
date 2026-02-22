@@ -98,3 +98,18 @@ http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/61217.ts
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/61228.ts
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY" tvg-logo="https://easypr1.com/logos/Canalsony.png" group-title=" Filmes E Series",SONY
 http://coneasy.lat:80/live/moficc88/Ggs3x5Q97v/13202.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="=FILMES ACAO" tvg-logo="http://canais.is/imgs/CINE24H.png" group-title="CANAIS | 24H",24 HORAS: FILMES ACAO
+http://9822ko909.us:80/819263673/946691998/1894378.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS: FILMES ANIMACAO" tvg-logo="http://canais.is/imgs/CINE24H.png" group-title="CANAIS | 24H",24 HORAS: FILMES ANIMACAO
+http://9822ko909.us:80/819263673/946691998/1894379.ts
+#EXTINF:-1 tvg-id="" tvg-name="=FILMES COMEDIA" tvg-logo="http://canais.is/imgs/CINE24H.png" group-title="CANAIS | 24H",24 HORAS: FILMES COMEDIA
+http://9822ko909.us:80/819263673/946691998/1894380.ts
+#EXTINF:-1 tvg-id="" tvg-name="=FILMES DRAMA" tvg-logo="http://canais.is/imgs/CINE24H.png" group-title="CANAIS | 24H",24 HORAS: FILMES DRAMA
+http://9822ko909.us:80/819263673/946691998/1894381.ts
+#EXTINF:-1 tvg-id="" tvg-name="=FILMES LANCAMENTOS" tvg-logo="http://canais.is/imgs/CINE24H.png" group-title="CANAIS | 24H",24 HORAS: FILMES LANCAMENTOS
+http://9822ko909.us:80/819263673/946691998/1894384.ts
+#EXTINF:-1 tvg-id="" tvg-name="=FILMES ROMANCE" tvg-logo="http://canais.is/imgs/CINE24H.png" group-title="CANAIS | 24H",24 HORAS: FILMES ROMANCE
+http://9822ko909.us:80/819263673/946691998/1894382.ts
+#EXTINF:-1 tvg-id="" tvg-name="=FILMES SUSPENSE" tvg-logo="http://canais.is/imgs/CINE24H.png" group-title="CANAIS | 24H",24 HORAS: FILMES SUSPENSE
+http://9822ko909.us:80/819263673/946691998/1894383.ts
